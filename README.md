@@ -255,19 +255,14 @@ Enable verbose logging by modifying the CustomLogger class to include DEBUG leve
 
 ## 📞 Support
 
-For issues, questions, or contributions, please reach out through any of the following channels:
+For issues, questions, or contributions, please reach out through any of my following channels:
 
 ### 📧 Contact Information
 - **Email**: [karmakarsupratik10@gmail.com](mailto:karmakarsupratik10@gmail.com)
 - **Phone**: [+91 7602596399](tel:+917602596399)
 
-### 🛠️ Technical Support
-- Open an issue on GitHub
-- Review existing documentation
-- Check troubleshooting section
-
 ---
 
 **⚠️ Important Reminder**: Always replace the dummy phone number `7602596399` with your actual phone number before running the tests. The framework requires a valid phone number to receive OTP for authentication.
 
-**🎯 Ready to automate?** Follow the setup instructions and start automating your e-commerce testing workflows today! 
+**🎯 Ready to automate?**
