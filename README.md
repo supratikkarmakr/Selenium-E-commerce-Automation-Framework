@@ -246,10 +246,6 @@ Enable verbose logging by modifying the CustomLogger class to include DEBUG leve
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Selenium WebDriver**: For providing the automation framework
@@ -259,7 +255,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For issues, questions, or contributions:
+For issues, questions, or contributions, please reach out through any of the following channels:
+
+### 📧 Contact Information
+- **Email**: [karmakarsupratik10@gmail.com](mailto:karmakarsupratik10@gmail.com)
+- **Phone**: [+91 7602596399](tel:+917602596399)
+
+### 🛠️ Technical Support
 - Open an issue on GitHub
 - Review existing documentation
 - Check troubleshooting section
